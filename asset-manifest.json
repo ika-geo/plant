@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/plant/static/css/main.5c32780b.css",
+    "main.js": "/plant/static/js/main.e6faec00.js",
+    "static/media/headerBG.png": "/plant/static/media/headerBG.23007987a4f801945836.png",
+    "static/media/submitBG.png": "/plant/static/media/submitBG.60e917549c399b8b5002.png",
+    "static/media/advantagesMain.png.png": "/plant/static/media/advantagesMain.png.93e1ece839c304e1574f.png",
+    "static/media/gallery (1).png": "/plant/static/media/gallery (1).b43d126a7a494eece159.png",
+    "static/media/gallery (5).png": "/plant/static/media/gallery (5).e229030607ad6d2275c2.png",
+    "static/media/gallery (2).png": "/plant/static/media/gallery (2).7d09ca7e18a40b43a97c.png",
+    "static/media/blog (1).png": "/plant/static/media/blog (1).607687e67e072a269c16.png",
+    "static/media/blog (2).png": "/plant/static/media/blog (2).eaf5ab95be2a5017b8c5.png",
+    "static/media/gallery (4).png": "/plant/static/media/gallery (4).0e08848333da9878165f.png",
+    "static/media/gallery (3).png": "/plant/static/media/gallery (3).4e9f635d0599364d2598.png",
+    "static/media/blog (3).png": "/plant/static/media/blog (3).7bce0e138ef425d087f0.png",
+    "static/media/offer (4).jpg": "/plant/static/media/offer (4).9aba400d68e6a21c87e6.jpg",
+    "static/media/offer (1).jpg": "/plant/static/media/offer (1).7543d573c54015697cd1.jpg",
+    "static/media/offer (8).jpg": "/plant/static/media/offer (8).e3eb46a78f4b477134c7.jpg",
+    "static/media/offer (3).jpg": "/plant/static/media/offer (3).fe568266b3af2816ebac.jpg",
+    "static/media/offer (6).jpg": "/plant/static/media/offer (6).fd5dca352a963ca995ce.jpg",
+    "static/media/offer (5).jpg": "/plant/static/media/offer (5).3c3829bb84d16f9aeba8.jpg",
+    "static/media/offer (2).jpg": "/plant/static/media/offer (2).d0d90967d85d89a9863e.jpg",
+    "static/media/offer (7).jpg": "/plant/static/media/offer (7).8549c7abec9dc375e1d3.jpg",
+    "static/media/Vector (1).png": "/plant/static/media/Vector (1).066e0cf8a8c0176531aa.png",
+    "index.html": "/plant/index.html",
+    "main.5c32780b.css.map": "/plant/static/css/main.5c32780b.css.map",
+    "main.e6faec00.js.map": "/plant/static/js/main.e6faec00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c32780b.css",
+    "static/js/main.e6faec00.js"
+  ]
+}
